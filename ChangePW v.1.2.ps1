@@ -1,13 +1,5 @@
 Import-Module ActiveDirectory
 
-Write-Host "#########################################" -ForegroundColor Cyan
-Write-Host "#####                               #####" -ForegroundColor Cyan
-Write-Host "##### Password Change Script        #####" -ForegroundColor Cyan	
-Write-Host "##### Version: 1.2                  #####" -ForegroundColor Cyan
-Write-Host "##### Written by Steffen Heinemeier #####" -ForegroundColor Cyan
-Write-Host "#####                               #####" -ForegroundColor Cyan
-Write-Host "#########################################" -ForegroundColor Cyan
-
 echo ""
 echo "Loading Domainlist..."
 echo ""
